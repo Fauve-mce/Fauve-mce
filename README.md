@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **real use-case for Elia**,focusing on enhancing shift management processes through the design of an initial application for managing their shift schedules. 
 
-- 🌱 I’m currently learning **node.js, three.js**
+- 🌱 I’m currently learning **three.js**
 
 - 📫 How to reach me **Fauve.mareels@outlook.com**
 
