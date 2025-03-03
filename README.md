@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my Portfolio
 
-- 🌱 I’m currently learning **three.js**
+- 🌱 I’m currently learning **three.js and Flutter**
 
 - 📫 How to reach me **Fauve.mareels@outlook.com**
 
