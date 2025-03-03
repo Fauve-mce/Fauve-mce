@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fauve-mce" alt="fauve-mce" /></a> </p>
 
-- 🔭 I’m currently working on **real use-case for Elia**,focusing on enhancing shift management processes through the design of an initial application for managing their shift schedules. 
+- 🔭 I’m currently working on my Portfolio
 
 - 🌱 I’m currently learning **three.js**
 
